@@ -1,0 +1,6 @@
+CustomerNumber,MaterialNumber,Status,SalesOrderNumber,Reason,Timestamp
+0001000123,FG-1002,Success,0004500981,,2026-08-20T09:12:03Z
+0001000456,FG-1015,Success,0004500982,,2026-08-20T09:12:41Z
+0001000789,FG-2001,Success,0004500983,,2026-08-20T09:13:05Z
+0001000123,FG-9999,Failed,,Material FG-9999 does not exist for plant 1000,2026-08-20T09:13:22Z
+0001000999,FG-1002,Failed,,Credit limit exceeded for customer 0001000999,2026-08-20T09:13:40Z
